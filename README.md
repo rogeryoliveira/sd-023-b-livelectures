@@ -1,1 +1,1 @@
-# sd-023-b-livelectures
+# sd-023-b-live-lectures
